@@ -289,3 +289,5 @@ En cuanto a los test, la siguiente imagen servirá para ver que los ha pasado co
 ![image](https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-lucianosekulic/blob/gh-pages/Captura2.PNG)
 
 He procedido a utilizar **chalk** para realizar los respectivos prints mediante colores en el codigo. Además de añadir sonar cloud, coveralls y githubactions.
+
+PD: He hecho coveralls, sonarcloud y los test, sin embargo no me da tiempo ponerlo todo en el readme debido a que se acaba el plazo, ruego que disculpe las molestias.
